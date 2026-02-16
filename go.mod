@@ -1,3 +1,3 @@
 module altaiconsulting/readerwriterconsumer
 
-go 1.25
+go 1.26
